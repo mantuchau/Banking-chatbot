@@ -1,6 +1,6 @@
 openai
 langchain
-sentence-transformers==2.2.2
+sentence-transformers
 flask
 pypdf
 pinecone[grpc]
